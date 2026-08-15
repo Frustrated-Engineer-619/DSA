@@ -1,4 +1,4 @@
-package com.dsa.segmenttree;
+package com.dsa.tree;
 
 
 public class Main {

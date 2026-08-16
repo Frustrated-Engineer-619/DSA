@@ -1,4 +1,4 @@
-package com.dsa.graph;
+package com.dsa.graph.topologicalsort;
 
 public class Edge {
     private final int u;

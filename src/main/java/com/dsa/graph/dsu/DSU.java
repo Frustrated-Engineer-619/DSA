@@ -1,4 +1,4 @@
-package com.dsa.graph;
+package com.dsa.graph.dsu;
 
 public class DSU {
     private int[] parent;

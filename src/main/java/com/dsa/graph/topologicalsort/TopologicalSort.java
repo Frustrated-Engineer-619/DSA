@@ -1,4 +1,4 @@
-package com.dsa.graph;
+package com.dsa.graph.topologicalsort;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
